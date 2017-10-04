@@ -1,1 +1,1 @@
-teste
+<h1 style="position:center">Este é um projeto para fins de estudos de Node JS</h1>
